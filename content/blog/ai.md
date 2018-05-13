@@ -1,7 +1,7 @@
 +++
-title = "AI"
+title = "Google's Phone AI"
 date = "2018-05-13T12:12:11+01:00"
-draft = true
+draft = false
 +++
 
 Last week, google showed off a really cool demo phone call. Google's AI called a hair salon to setup an appointment. It went something like this:
@@ -40,11 +40,15 @@ Second, it adds filler words, like _umm_ and _ahh_. It even uses _mmhhmm_ instea
 
 These may seem like trivial things to us. But it seems to make a big difference in our interpretation of what is natural speech and what is not.
 
-Regarding, the _intelligence_ of the robot, I don't think there's a great leap here. Making an appointment is a very well-defined task. There's only so many possibilities for where the conversation can go.
+Regarding the _intelligence_ of the robot, I don't think there's a great leap here. Making an appointment is a very well-defined task. There's only so many possibilities for where the conversation can go.
 
-This takes me to the bigger picture. Clearly, robots will start sounding more and more human-like.
+This takes me to the bigger picture. Clearly, robots will start sounding more and more human-like. In 5 years, most of our appointments may be made by robots. Heck, [x.ai](https://x.ai) has already been setting up meetings through email for a few years.
 
-In 5 years, most of our appointments may be made by robots. Heck, (x.ai)[x.ai] has already been doing it through email for a few years.
-Will we be able to tell who's making an appointment? Probably not.
+But, I still don't see anything here that signals progress towards general intelligence. Like ours. And I think that's a good thing.
+I'm with Elon Musk, Ray Kurzwell and the other doomsdayers here. Once a machine can reach our level of intelligence, there's nothing stopping it from going beyond it. It will be the end for us.
 
-But, I still don't see anything here that signals progress towards general intelligence. Sure, we will have robots good at making routine phone calls. Will it be able to call my mom and check-in with her? Probably not anytime soon.
+(If you're interested in going deeper down the AI doomsday rabit-hole, Wait But Why has a great [post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) about it.)
+
+So, it seems that all we have here is a robot that can handle calls that were pretty _robotic_ in the first place. I mean think about it. If the hair salon was online, I'd just click a few buttons to set up an appointment. Or if they had an app, I could probably ask google assistant to do it for me already.
+
+If this means robots can handle more of these robotic tasks with less work for me, I'm all for it.
