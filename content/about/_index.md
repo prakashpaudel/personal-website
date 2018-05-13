@@ -6,4 +6,6 @@ title = "About"
 
 Hey! I'm Prakash, a software developer from Pokhara, Nepal.
 
-This is my personal website. It's under construction, so I'll add more info here later.
+This is my personal website. Not quite sure what I'll use it for yet. Hopefully, some cool projects and some writing.
+
+Look out for updates in the near future!
