@@ -1,6 +1,6 @@
 +++
 title = "Bookshelf"
-date = "2018-05-15T11:22:25+01:00"
+date = "2018-08-01T11:22:25+01:00"
 draft = false
 +++
 
@@ -26,4 +26,7 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 ## 2018
 
 * **Anti-fragile, Taleb**
-* Damian, Hesse
+* Demian, Hesse
+* Heart of Darkness, Conrad
+* The Communist Manifesto, Marx
+* The Wind-Up Bird Chronicle, Murakami

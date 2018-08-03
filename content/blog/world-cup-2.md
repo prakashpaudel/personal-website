@@ -18,7 +18,7 @@ Alongside Cafu was his lieutenant, Roberto Carlos. A bald-headed, bulldozer is t
 
 Up front were the creative players. A fresh-faced, buck-toothed Ronaldinho. On the pitch he looked like a kid playing for fun. Always pulling incredible tricks. Making professionals look like Sunday League players.
 
-But most memorable of the bunch was Ronaldo Nazário at his peak. He was the ultimate goal-machine. Running past defenders as if they weren't there and making world class goalkeepers look foolish by sliding the ball through their legs countless times. And he did this while having the [worst haircut of all time](http://as01.epimg.net/tikitakas/imagenes/2017/12/28/portada/1514448082_557886_1514448185_noticia_normal.jpg)
+But most memorable of the bunch was Ronaldo Nazário at his peak. He was the ultimate goal-machine. Running past defenders as if they weren't there and making world class goalkeepers look foolish by sliding the ball through their legs countless times. And he did this while having the [worst haircut of all time](http://as01.epimg.net/tikitakas/imagenes/2017/12/28/portada/1514448082_557886_1514448185_noticia_normal.jpg).
 
 The story goes even deeper for him. He had a lot of critics going into the tournament. In France '98, he failed to make a mark in the final. He claims the devil visited him the night before the final, and cursed him.
 
