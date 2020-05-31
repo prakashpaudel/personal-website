@@ -8,8 +8,6 @@ I was inspired by patrick collison who shared a [virtual bookshelf](https://patr
 
 I don't maintain a real life bookshelf since I move around often. But, here's some books that I've read recently. I've bolded the ones I find especially great. These are in no specific order.
 
-## 2017
-
 * 1984, Orwell
 * **Sapiens, Hariri**
 * Kafka By the Sea, Murakami
@@ -22,11 +20,10 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 * **Selfish Gene, Dawkins**
 * The Travelers, Pavone
 * Asimov Short stories, Asimov
-
-## 2018
-
 * **Anti-fragile, Taleb**
 * Demian, Hesse
 * Heart of Darkness, Conrad
 * The Communist Manifesto, Marx
 * The Wind-Up Bird Chronicle, Murakami
+* A Brief History Of Time, Hawkins
+* **The Count of Monte Cristo, Dumas**
