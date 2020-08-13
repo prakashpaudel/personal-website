@@ -16,6 +16,12 @@ googleAnalytics     = ""
 blog  = "blog/:slug/"
 
 [[menu.main]]
+name                   = "About"
+weight                 = -130
+identifier             = "about"
+url                    = "/"
+
+[[menu.main]]
 name                   = "Blog"
 weight                 = -120
 identifier             = "blog"
@@ -26,12 +32,6 @@ name                   = "Bookshelf"
 weight                 = -110
 identifier             = "bookshelf"
 url                    = "/bookshelf/"
-
-[[menu.main]]
-name                   = "About"
-weight                 = -100
-identifier             = "about"
-url                    = "/about/"
 
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
