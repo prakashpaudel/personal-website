@@ -25,5 +25,6 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 * Heart of Darkness, Conrad
 * The Communist Manifesto, Marx
 * The Wind-Up Bird Chronicle, Murakami
+* Bullshit Jobs, Graeber
 * A Brief History Of Time, Hawkins
 * **The Count of Monte Cristo, Dumas**
