@@ -28,3 +28,4 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 * Bullshit Jobs, Graeber
 * A Brief History Of Time, Hawkins
 * **The Count of Monte Cristo, Dumas**
+* Guns, Sails and Empires, Cipolla
