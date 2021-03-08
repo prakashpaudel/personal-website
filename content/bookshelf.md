@@ -29,3 +29,8 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 * A Brief History Of Time, Hawkins
 * **The Count of Monte Cristo, Dumas**
 * Guns, Sails and Empires, Cipolla
+* Debt: The first 10,000 years, Graeber*
+* **Skin in the Game, Taleb**
+
+\*_Didn't finish for whatever reason, but still was notable_
+
