@@ -8,29 +8,28 @@ I was inspired by patrick collison who shared a [virtual bookshelf](https://patr
 
 I don't maintain a real life bookshelf since I move around often. But, here's some books that I've read recently. I've bolded the ones I find especially great. These are in no specific order.
 
-* 1984, Orwell
-* **Sapiens, Hariri**
-* Kafka By the Sea, Murakami
-* **Norwegian Wood, Murakami**
-* Vagabonding, Potts
-* Steppenwolf, Hesse
-* Siddhartha, Hesse
-* The Autobiography of Gucci Mane
-* Brave New World, Huxley
-* **Selfish Gene, Dawkins**
-* The Travelers, Pavone
-* Asimov Short stories, Asimov
-* **Anti-fragile, Taleb**
-* Demian, Hesse
-* Heart of Darkness, Conrad
-* The Communist Manifesto, Marx
-* The Wind-Up Bird Chronicle, Murakami
-* Bullshit Jobs, Graeber
-* A Brief History Of Time, Hawkins
-* **The Count of Monte Cristo, Dumas**
-* Guns, Sails and Empires, Cipolla
-* Debt: The first 5,000 years, Graeber*
-* **Skin in the Game, Taleb**
-
-\*_Didn't finish for whatever reason, but still was notable_
-
+- 1984, George Orwell
+- **Sapiens, Yuval Harari**
+- Kafka By the Sea, Haruki Murakami
+- **Norwegian Wood, Haruki Murakami**
+- Vagabonding, Rolf Potts
+- Steppenwolf, Hermann Hesse
+- Siddhartha, Hermann Hesse
+- The Autobiography of Gucci Mane
+- Brave New World, Aldous Huxley
+- **Selfish Gene, Richard Dawkins**
+- The Travelers, Chris Pavone
+- Asimov Short stories, Isaac Asimov
+- **Anti-fragile, Nassim Taleb**
+- Demian, Hermann Hesse
+- Heart of Darkness, Joseph Conrad
+- The Communist Manifesto, Karl Marx
+- The Wind-Up Bird Chronicle, Haruki Murakami
+- Bullshit Jobs, David Graeber
+- A Brief History Of Time, Stephen Hawking
+- **The Count of Monte Cristo, Alexandre Dumas**
+- Guns, Sails and Empires, Carlo Cipolla
+- Debt: The first 5,000 years, David Graeber
+- **Skin in the Game, Nassim Taleb**
+- The French Revolution and What Went Wrong, Stephen Clarke
+- My Life in Red and White, Arsène Wenger
