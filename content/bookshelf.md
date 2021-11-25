@@ -33,3 +33,4 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - **Skin in the Game, Nassim Taleb**
 - The French Revolution and What Went Wrong, Stephen Clarke
 - My Life in Red and White, Arsène Wenger
+- **Republic, Plato**
