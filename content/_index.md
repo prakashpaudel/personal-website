@@ -4,7 +4,7 @@ draft = false
 title = ""
 +++
 
-Hey! I'm Prakash, a full-stack software developer based in Asia. I build mobile and web apps, primarily in javascript.
+Hey! I'm Prakash, a full-stack software developer based in Africa. I build mobile and web apps, primarily in javascript.
 
 Most of my time is spent with React (and React Native) and I have been creating production sites with it since 2016. For backend, I stick with Rails, but sometimes experiment with Node, particularly Next.js.
 
@@ -12,4 +12,4 @@ I love to read and you can check out some of my favorite [books](/bookshelf). Or
 
 I'd like to start using this site to share some of my personal projects, but we're not there yet!
 
-I am occasionally available to new consulting oppurtunities. Feel free to reach me at [total.prakash@gmail.com](mailto:total.prakash@gmail.com)
+I am occasionally available to new consulting oppurtunities. Feel free to reach me at [pp@prakashpaudel.com](mailto:pp@prakashpaudel.com)
