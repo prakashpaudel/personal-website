@@ -34,3 +34,4 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The French Revolution and What Went Wrong, Stephen Clarke
 - My Life in Red and White, Arsène Wenger
 - **Republic, Plato**
+- **The Dawn of Everything, David Graeber & David Wengrow**
