@@ -35,6 +35,7 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - My Life in Red and White, Arsène Wenger
 - **Republic, Plato**
 - **The Dawn of Everything, David Graeber & David Wengrow**
+- Play Winning Chess, Yasser Seirawan
 - Meditations, Marcus Aurelius
 - Inverting the Pyramid, Jonathan Wilson
 - The Mixer, Michael Cox
