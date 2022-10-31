@@ -45,3 +45,5 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Zonal Marking, Michael Cox
 - The Iliad, Homer
 - The Odyssey, Homer
+- On the Nature of Things, Lucretius
+- Rubicon, Tom Holland
