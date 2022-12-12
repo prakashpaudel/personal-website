@@ -47,3 +47,4 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Odyssey, Homer
 - On the Nature of Things, Lucretius
 - Rubicon, Tom Holland
+- Fever Pitch, Nick Hornby
