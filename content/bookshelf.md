@@ -48,3 +48,4 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - On the Nature of Things, Lucretius
 - Rubicon, Tom Holland
 - Fever Pitch, Nick Hornby
+- The Doctor and the Saint, Arundhati Roy
