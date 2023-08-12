@@ -46,6 +46,12 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Iliad, Homer
 - The Odyssey, Homer
 - On the Nature of Things, Lucretius
-- Rubicon, Tom Holland
+- **Rubicon, Tom Holland**
 - Fever Pitch, Nick Hornby
 - The Doctor and the Saint, Arundhati Roy
+- The Annihilation of Caste, Bhimrao Ambedkar
+- Dominion, Tom Holland
+- Midnight's Children, Salman Rushdie
+- **Open Society and it's Enemies, Karl Popper**
+- Shame, Salman Rushdie
+- Discourse on the Method, René Descartes
