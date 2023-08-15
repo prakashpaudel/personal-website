@@ -55,3 +55,5 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - **Open Society and it's Enemies, Karl Popper**
 - Shame, Salman Rushdie
 - Discourse on the Method, René Descartes
+- Leviathan, Thomas Hobbes
+- The Social Contract, Jean-Jacques Rousseau
