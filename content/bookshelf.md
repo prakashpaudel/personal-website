@@ -26,9 +26,10 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Communist Manifesto, Karl Marx
 - The Wind-Up Bird Chronicle, Haruki Murakami
 - Bullshit Jobs, David Graeber
-- A Brief History Of Time, Stephen Hawking
+- A Brief History of Time, Stephen Hawking
 - **The Count of Monte Cristo, Alexandre Dumas**
 - Guns, Sails and Empires, Carlo Cipolla
+- On the Shortness of Life, Seneca The Younger
 - Debt: The first 5,000 years, David Graeber
 - **Skin in the Game, Nassim Taleb**
 - The French Revolution and What Went Wrong, Stephen Clarke
@@ -57,3 +58,5 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Discourse on the Method, René Descartes
 - Leviathan, Thomas Hobbes
 - The Social Contract, Jean-Jacques Rousseau
+- The Little Prince, Antoine de Saint-Exupéry
+- Essays, Michel de Montaigne
