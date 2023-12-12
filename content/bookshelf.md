@@ -60,3 +60,7 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Social Contract, Jean-Jacques Rousseau
 - The Little Prince, Antoine de Saint-Exupéry
 - Essays, Michel de Montaigne
+- The Epic of Gilgamesh
+- Mythos, Stephen Fry
+- Oedipus Tyrannos, Sophocles
+- Oedipus, Seneca
