@@ -64,3 +64,6 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Mythos, Stephen Fry
 - Oedipus Tyrannos, Sophocles
 - Oedipus, Seneca
+- The Oresteia, Aeschylus
+- Dynasty, Tom Holland
+- Pax, Tom Holland
