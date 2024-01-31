@@ -67,3 +67,5 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Oresteia, Aeschylus
 - Dynasty, Tom Holland
 - Pax, Tom Holland
+- Seneca: A Life, Emily Wilson
+- Persian Fire, Tom Holland
