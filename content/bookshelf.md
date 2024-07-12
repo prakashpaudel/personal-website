@@ -70,5 +70,9 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Seneca: A Life, Emily Wilson
 - Persian Fire, Tom Holland
 - A Treatise of Human Nature, David Hume
-- The Mahabharata, Vyasa
+- **The Mahabharata, Vyasa**
 - The Ramayana, Valmiki
+- Why I Am a Hindu, Shashi Tharoor
+- The Prince, Niccolo Machiavelli
+- Encountering the Goddess, Thomas Coburn
+- India in the Persianate Age, Richard Eaton
