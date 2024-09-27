@@ -76,3 +76,6 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Prince, Niccolo Machiavelli
 - Encountering the Goddess, Thomas Coburn
 - India in the Persianate Age, Richard Eaton
+- The Enchantress of Florence, Salman Rushdie
+- Animal Farm, George Orwell
+- **The Black Swan, Nassim Taleb**
