@@ -79,3 +79,8 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Enchantress of Florence, Salman Rushdie
 - Animal Farm, George Orwell
 - **The Black Swan, Nassim Taleb**
+- Victory City, Salman Rushdie
+- Identity and Violence, Amartya Sen
+- The Annotated Arabian Nights, Yasmine Seale
+- Haroun and the Sea of Stories, Salman Rushdie
+- The Book of Travels, Hanna Diyab
