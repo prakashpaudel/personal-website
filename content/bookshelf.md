@@ -84,3 +84,4 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Annotated Arabian Nights, Yasmine Seale
 - Haroun and the Sea of Stories, Salman Rushdie
 - The Book of Travels, Hanna Diyab
+- The Anarchy, William Dalrymple
