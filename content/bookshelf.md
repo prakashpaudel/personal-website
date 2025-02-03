@@ -85,3 +85,8 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Haroun and the Sea of Stories, Salman Rushdie
 - The Book of Travels, Hanna Diyab
 - The Anarchy, William Dalrymple
+- Modern South Asia, Sugata Bose and Ayesha Jalal
+- The Last Mughal, William Dalrymple
+- Shadows At Noon, Joya Chatterji
+- A Case of Exploding Mangoes, Mohammed Hanif
+- Bombay Stories, Saadat Manto
