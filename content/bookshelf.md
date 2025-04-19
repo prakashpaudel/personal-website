@@ -90,3 +90,9 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Shadows At Noon, Joya Chatterji
 - A Case of Exploding Mangoes, Mohammed Hanif
 - Bombay Stories, Saadat Manto
+- Manto Selected Stories, Saadat Manto
+- Manto and Chugtai, Saadat Manto & Ismat Chughtai
+- My Name is Radha, Saadat Manto
+- White Rajah, Nigel Barley
+- Selected Short Stories, Rabindranath Tagore
+- Burmese Days, George Orwell
