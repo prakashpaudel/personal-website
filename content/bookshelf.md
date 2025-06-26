@@ -87,12 +87,15 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - The Anarchy, William Dalrymple
 - Modern South Asia, Sugata Bose and Ayesha Jalal
 - The Last Mughal, William Dalrymple
-- Shadows At Noon, Joya Chatterji
+- **Shadows At Noon, Joya Chatterji**
 - A Case of Exploding Mangoes, Mohammed Hanif
 - Bombay Stories, Saadat Manto
-- Manto Selected Stories, Saadat Manto
+- **Manto Selected Stories, Saadat Manto**
 - Manto and Chugtai, Saadat Manto & Ismat Chughtai
 - My Name is Radha, Saadat Manto
 - White Rajah, Nigel Barley
 - Selected Short Stories, Rabindranath Tagore
 - Burmese Days, George Orwell
+- Nepal, Alex Michaels
+- The Golden Road, William Dalrymple
+- Heat Lamp, Banu Mushtaq
