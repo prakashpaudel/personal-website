@@ -99,3 +99,6 @@ I don't maintain a real life bookshelf since I move around often. But, here's so
 - Nepal, Alex Michaels
 - The Golden Road, William Dalrymple
 - Heat Lamp, Banu Mushtaq
+- In a Free State, V.S. Naipaul
+- The God of Small Things, Arundhati Roy
+- Fasting, Feasting, Anita Desai
